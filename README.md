@@ -16,7 +16,7 @@ make fclean # remove .o files and libft.a
 
 ---
 
-## 🔧 Functions
+## Functions
 
 ### Character checks
 
@@ -79,7 +79,7 @@ make fclean # remove .o files and libft.a
 
 ---
 
-## ⭐ Bonus — Linked lists
+## Bonus — Linked lists
 
 ```c
 typedef struct s_list
